@@ -1,0 +1,22 @@
+# Ignore Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore the virtual environment
+heart_disease_env/
+.env/
+venv/
+env/
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore Jupyter checkpoints if you use notebooks
+.ipynb_checkpoints/

@@ -1,0 +1,6 @@
+{
+  "name": "SecureLens",
+  "description": "LLM-powered secure code review assistant for student software projects with multi-engine static analysis, Gemini AI vulnerability explanations, guided code remediation, and assessment reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
